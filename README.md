@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="[https://github.com/hosamahmed](https://github.com/HosamBinCode)">
+  <a href="https://github.com/HosamBinCode">
     <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Hosam Ahmed" />
   </a>
 </p>
@@ -13,24 +13,25 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/hosam-ahmed/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/hosam-ahmed-68055a324"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/hosamahmed"><img width="32px" alt="GitHub" title="GitHub" src="https://i.imgur.com/9I6NRUm.png"/></a>
+  <a href="https://github.com/HosamBinCode"><img width="32px" alt="GitHub" title="GitHub" src="https://i.imgur.com/9I6NRUm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.codewars.com/users/hosamahmed"><img width="32px" alt="Codewars" title="Codewars" src="https://i.imgur.com/8T5Y3dH.png"/></a>
+  <a href="https://www.codewars.com/users/hosam000"><img width="32px" alt="Codewars" title="Codewars" src="https://i.imgur.com/8T5Y3dH.png"/></a>
 </p>
 
 <br/>
 
 <p align="center">
-  <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/hosamahmed-profile-views" />
+  <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/HosamBinCode-profile-views" />
 </p>
 
 <details open> 
   <summary><h2>👨‍💻 About Me</h2></summary>
 
-  My name is Hossam, and I am a student in the Department of Computer Science at HITU. I have practical experience in the Internet of Things (IoT), mobile and desktop applications, and software testing (manual and automated).  
-I interned at **ARAB INTERNATIONAL OPTRONICS** (from October 2022 to January 2025), where I worked on annual projects in the areas of research and development, embedded systems (ESP32, Arduino), AutoCAD, and industrial IoT. 
+  I'm an IT student at Elsewedy Technical Academy (graduating Sept 2025) with hands‑on experience in IoT, mobile/desktop apps, and software testing (manual + automated).  
+  I’ve interned at **ARAB INTERNATIONAL OPTRONICS** (Oct 2022 – Jan 2025), where I delivered annual projects in R&D, embedded systems (ESP32, Arduino), AutoCAD, LabVIEW, and industrial IoT.  
+  I’m passionate about building reliable software, automating tests, and designing clean UI/UX.
 </details>
 
 <details open> 
@@ -79,10 +80,10 @@ I interned at **ARAB INTERNATIONAL OPTRONICS** (from October 2022 to January 202
   <summary><h2>📘 My Projects</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/hosamahmed/online-text-translator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hosamahmed&repo=online-text-translator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Online Text Translator"></a>
-    <a href="https://github.com/hosamahmed/real-time-video-stitching"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hosamahmed&repo=real-time-video-stitching&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Real-Time Video Stitching"></a>
-    <a href="https://github.com/hosamahmed/bank-atm-system"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hosamahmed&repo=bank-atm-system&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Bank ATM System"></a>
-    <a href="https://github.com/hosamahmed/selenium-automation-testing"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hosamahmed&repo=selenium-automation-testing&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Selenium Automation Testing"></a>
+    <a href="https://github.com/HosamBinCode/online-text-translator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HosamBinCode&repo=online-text-translator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Online Text Translator"></a>
+    <a href="https://github.com/HosamBinCode/real-time-video-stitching"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HosamBinCode&repo=real-time-video-stitching&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Real-Time Video Stitching"></a>
+    <a href="https://github.com/HosamBinCode/bank-atm-system"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HosamBinCode&repo=bank-atm-system&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Bank ATM System"></a>
+    <a href="https://github.com/HosamBinCode/selenium-automation-testing"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HosamBinCode&repo=selenium-automation-testing&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Selenium Automation Testing"></a>
   </p>
 
   <p>📌 <strong>Online Text Translator</strong> – Responsive web app (JS/HTML/CSS) supporting 58+ languages, auto‑detect, dark mode, 100k words.</p>
@@ -90,7 +91,7 @@ I interned at **ARAB INTERNATIONAL OPTRONICS** (from October 2022 to January 202
   <p>📌 <strong>Bank ATM System</strong> – Java desktop app (JavaFX/Swing) with OOP, SQL database integration for login, balance, deposits, withdrawals, history.</p>
   <p>📌 <strong>Selenium Automation Testing</strong> – Automated regression test scripts with Selenium WebDriver (Java) for web workflows.</p>
 
-  <a href="https://github.com/hosamahmed?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/HosamBinCode?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
 <details> 
@@ -110,16 +111,16 @@ I interned at **ARAB INTERNATIONAL OPTRONICS** (from October 2022 to January 202
   <h3>🔥 Streak Stats</h3>
   <p>
     <a href="https://git.io/streak-stats">
-      <img title="🔥 Get streak stats at git.io/streak-stats" alt="Hosam Ahmed's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=hosamahmed&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+      <img title="🔥 Get streak stats at git.io/streak-stats" alt="Hosam Ahmed's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=HosamBinCode&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
     </a>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Hosam Ahmed's GitHub stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hosamahmed&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+    <img alt="Hosam Ahmed's GitHub stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=HosamBinCode&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hosamahmed&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+    <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=HosamBinCode&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   </a>
   <br/>
   <b>Note:</b> Top languages reflect only public code – not a measure of overall experience.
