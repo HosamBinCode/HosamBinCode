@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/HosamBinCode">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Hosam Ahmed" />
-  </a>
+  <h1 align="center">Hosam Ahmed</h1>
 </p>
 
 <p align="center">
@@ -126,6 +124,5 @@
   <b>Note:</b> Top languages reflect only public code – not a measure of overall experience.
 
   <h3>⚡ Recent GitHub Activity</h3>
-  <!-- Replace with your own activity if desired – you can use https://github.com/jamesgeorge007/github-activity-readme -->
   <p><i>Activity feed will appear once you start pushing code and interacting with repos.</i></p>
 </details>
