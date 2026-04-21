@@ -29,9 +29,8 @@
 <details open> 
   <summary><h2>👨‍💻 About Me</h2></summary>
 
-  I'm an IT student at Elsewedy Technical Academy (graduating Sept 2025) with hands‑on experience in IoT, mobile/desktop apps, and software testing (manual + automated).  
-  I’ve interned at **ARAB INTERNATIONAL OPTRONICS** (Oct 2022 – Jan 2025), where I delivered annual projects in R&D, embedded systems (ESP32, Arduino), AutoCAD, LabVIEW, and industrial IoT.  
-  I’m passionate about building reliable software, automating tests, and designing clean UI/UX.
+  My name is Hossam, and I am a student in the Department of Computer Science at HITU. I have practical experience in the Internet of Things (IoT), mobile and desktop applications, and software testing (manual and automated).  
+I interned at **ARAB INTERNATIONAL OPTRONICS** (from October 2022 to January 2025), where I worked on annual projects in the areas of research and development, embedded systems (ESP32, Arduino), AutoCAD, and industrial IoT. 
 </details>
 
 <details open> 
