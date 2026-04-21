@@ -27,7 +27,7 @@
 <details open> 
   <summary><h2>👨‍💻 About Me</h2></summary>
 
-My name is Hossam, and I am a student in the Department of Computer Science at HITU. I have practical experience in the Internet of Things (IoT), mobile and desktop applications, and software testing (manual and automated).  
+My name is Hossam, and I am a computer science student at HITU . I have practical experience in the Internet of Things (IoT), mobile and desktop applications, and software testing (manual and automated).  
 I interned at **ARAB INTERNATIONAL OPTRONICS** (from October 2022 to January 2025), where I worked on annual projects in the areas of research and development, embedded systems (ESP32, Arduino), AutoCAD, and industrial IoT. 
 </details>
 
